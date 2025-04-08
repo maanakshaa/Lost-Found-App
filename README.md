@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Lost & Found Application</title>
+  
 </head>
 <body>
   <h1>📌 Project Title: Lost & Found Application</h1>
